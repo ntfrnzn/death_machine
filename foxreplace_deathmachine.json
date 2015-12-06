@@ -1,0 +1,61 @@
+{
+  "version": "0.15",
+  "groups": [
+    {
+      "name": "Death Machine",
+      "urls": [],
+      "substitutions": [
+        {
+          "input": "gunman",
+          "inputType": "text",
+          "output": "death machinist",
+          "caseSensitive": false
+        },
+        {
+          "input": "gunfire",
+          "inputType": "text",
+          "output": "flying death shards",
+          "caseSensitive": false
+        },
+        {
+          "input": "gunshot",
+          "inputType": "text",
+          "output": "deathshot",
+          "caseSensitive": false
+        },
+        {
+          "input": "handgun",
+          "inputType": "text",
+          "output": "handy death machine",
+          "caseSensitive": false
+        },
+        {
+          "input": "rifle",
+          "inputType": "text",
+          "output": "long death machine",
+          "caseSensitive": false
+        },
+        {
+          "input": "shotgun",
+          "inputType": "text",
+          "output": "spray death machine",
+          "caseSensitive": false
+        },
+        {
+          "input": "firearm",
+          "inputType": "text",
+          "output": "death machine",
+          "caseSensitive": false
+        },
+        {
+          "input": "gun",
+          "inputType": "text",
+          "output": "death machine",
+          "caseSensitive": false
+        }
+      ],
+      "html": "output",
+      "enabled": true
+    }
+  ]
+}
