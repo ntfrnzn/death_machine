@@ -8,7 +8,7 @@ This is an exported FoxReplace configuration file that will allow your browser t
 
 To use it, first use [*FireFox*](https://www.mozilla.org/en-US/firefox/).   You know how to do that. Then, install the *FoxReplace* add-on.  To do that, Run the browser, look at the _Tools_ menu for the _Add-ons_, and select it.  _Search_ for  "foxreplace" and install it, restarting *FireFox* as necessary.  
 
-Navigate again to the _Addons_ menu, and click the _Import from URL_ button.  Paste in:  
+Navigate again to the _Addons_ menu, find the _FoxReplace_ add-on, select _Preferences_ and click the _Import from URL_ button.  Paste in:  `https://raw.githubusercontent.com/ntfrnzn/death_machine/master/foxreplace_deathmachine.json`
 
 Make sure to check the _Auto-replace on page load_ button if you want it to load automatically.  Should be good to go now. Navigate to pages run by your friends at http://nra.org to see what it looks like.
 
